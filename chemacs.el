@@ -91,7 +91,7 @@
         (goto-char (point-min))
         ;; (buffer-string))
         (symbol-name (read (current-buffer)) ))
-    "default"))
+    "gnu.emacs"))
 
 
 (defvar chemacs-profile-name
